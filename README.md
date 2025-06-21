@@ -1,3 +1,9 @@
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonas-blue?logo=LinkedIn)](https://www.linkedin.com/in/jonasvdh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?logo=X)](https://x.com/jonasvanderh)  
+
+---
+
 # Hi there, I’m Jonas 👋
 
 #### In my 8+ year career, I experienced significant professional growth, advancing from Junior PHP Developer to Mid-Level/Senior Full-Stack Developer. At this specialized company in branded merchandise and distribution, I took on a broad role within the e-commerce development team. The team focused on the rapid implementation and professional management of large-scale B2B and B2C webshops, with bespoke solutions at the core of its services.
@@ -54,10 +60,32 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Learning sources
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonas-blue?logo=linkedin)](https://www.linkedin.com/in/jonasvdh/)  
-[![X](https://img.shields.io/badge/X-@jonasvanderh-blue?logo=twitter)](https://x.com/jonasvanderh)  
+### Always learning something new daily from following:
+
+##### Laravel related
+
+[![Laravel on YouTube](https://img.shields.io/badge/Youtube-@LaravelPHP-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@LaravelPHP)
+[![LaraconEU on YouTube](https://img.shields.io/badge/Youtube-@LaraconEU-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@LaraconEU)
+[![Nuno Maduro on YouTube daily](https://img.shields.io/badge/Youtube-@nunomaduro-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@nunomaduro)<br>
+[![LaravelDaily on YouTube](https://img.shields.io/badge/Youtube-@LaravelDaily-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@LaravelDaily)
+[![freekvanderherten on YouTube](https://img.shields.io/badge/Youtube-/c/freekvanderherten-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/c/freekvanderherten)
+[![joshcirre on YouTube](https://img.shields.io/badge/Youtube-@joshcirre-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@joshcirre)<br>
+[![mrpunyapal on YouTube](https://img.shields.io/badge/Youtube-@mrpunyapal-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@mrpunyapal)
+[![sabatino-dev on YouTube](https://img.shields.io/badge/Youtube-@sabatino-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@sabatino-dev)
+[![aarondfrancis on YouTube](https://img.shields.io/badge/Youtube-@aarondfrancis-white?logo=Youtube&logoColor=white&labelColor=E52D27&logoWidth=30&height=38)](https://www.youtube.com/@aarondfrancis)
+
+##### Laravel and other programming languages
+
+[![Laracasts](https://avatars.githubusercontent.com/u/5832706?s=150&v=4)](https://laracasts.com/)
+[![Datacamp](https://avatars.githubusercontent.com/u/6276968?s=150&v=4)](https://www.datacamp.com/)
+[![Udemy](https://avatars.githubusercontent.com/u/1714691?s=150&v=4)](https://www.udemy.com/)
+
+##### Magento 2, ecommerce
+
+[![M.academy](https://avatars.githubusercontent.com/u/52336444?s=150&v=4)](https://m.academy/)
+
 
 ---
 
