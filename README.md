@@ -39,7 +39,7 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonas-blue?logo=linkedin)](https://www.linkedin.com/in/jonasvdh/)  
-[![X](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter)](https://x.com/jonasvanderh)  
+[![X](https://img.shields.io/badge/X-@jonasvanderh-blue?logo=twitter)](https://x.com/jonasvanderh)  
 
 ---
 
