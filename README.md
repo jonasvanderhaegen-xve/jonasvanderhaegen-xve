@@ -1,6 +1,6 @@
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonas-blue?logo=LinkedIn)](https://www.linkedin.com/in/jonasvdh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?logo=X)](https://x.com/jonasvanderh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonas-blue?logo=LinkedIn)](https://www.linkedin.com/in/jonasvdh/)   [![X](https://img.shields.io/badge/@jonasvanderh-black?logo=X)](https://x.com/jonasvanderh)
 
 ---
 
@@ -24,6 +24,8 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 ---
 
 ## Company
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-XVE.Agency-blue?logo=LinkedIn)]([https://www.linkedin.com/in/jonasvdh/](https://www.linkedin.com/company/xvebe)) 
 
 **XVE**: The power of digital transformation, driven by the XVE group. We handle everything from start to finish with an approach that seamlessly adapts to your operations, pace, and expectations.
 
