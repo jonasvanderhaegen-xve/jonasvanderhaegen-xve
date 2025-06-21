@@ -29,7 +29,9 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 
 ## Happily working at <a href="https://xve.be/">XVE.Aency</a> in Antwerp!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-XVE.Agency-blue?logo=LinkedIn)]([https://www.linkedin.com/in/jonasvdh/](https://www.linkedin.com/company/xvebe)) 
+Follow us on [![LinkedIn](https://img.shields.io/badge/LinkedIn-XVE.Agency-blue?logo=LinkedIn)]([https://www.linkedin.com/in/jonasvdh/](https://www.linkedin.com/company/xvebe)) 
+
+# Let's quickly introduce you to XVE.Agency
 
 **XVE**: The power of digital transformation, driven by the XVE group. We handle everything from start to finish with an approach that seamlessly adapts to your operations, pace, and expectations.
 
@@ -49,11 +51,12 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
 
 ## 🛠️ My Toolbox
 
-| Backend              | DevOps & Infra          | Databases           | Frontend            |
-| -------------------- | ----------------------- | ------------------- | ------------------- |
-| ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4) | ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql) | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) |
-| ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel) | ![GitHub Actions](https://img.shields.io/badge/GHActions-2088FF?logo=githubactions) | ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql) | ![React](https://img.shields.io/badge/React-blue?logo=react) |
-| ![Composer](https://img.shields.io/badge/Composer-8D8D8D?logo=composer) | ![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible) | ![SQLite](https://img.shields.io/badge/SQLite-lightgray?logo=sqlite) | ![Tailwind](https://img.shields.io/badge/Tailwind-blue?logo=tailwindcss) |
+| Backend              | DevOps & Infra          | Databases           | Frontend            | Artificial Intelligence | Code editor |
+| -------------------- | ----------------------- | ------------------- | ------------------- | ------------------------|---------------|
+| ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4) | ![Docker](https://img.shields.io/badge/Docker-black?logo=docker) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql) | ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript) [![jQuery](https://img.shields.io/badge/jQuery-black?logo=jquery&logoColor=fff)](#) | [![ChatGPT](https://img.shields.io/badge/ChatGPT-black?logo=openai&logoColor=74aa9c)](#) | [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#) |
+| ![Laravel](https://img.shields.io/badge/Laravel-black?logo=laravel) | ![GitHub Actions](https://img.shields.io/badge/GHActions-black?logo=githubactions) | ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql) | ![Vue](https://img.shields.io/badge/Vue.js-black?logo=vuedotjs) [![Nuxt](https://img.shields.io/badge/Nuxt-black?logo=nuxt&logoColor=#00DC82)](#) | [![Claude](https://img.shields.io/badge/Claude-black?logo=claude&logoColor=D97757)](#) | [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-black.svg?logo=vsc&logoColor=#0078d7)](#) |
+| ![Composer](https://img.shields.io/badge/Composer-black?logo=composer) | ![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible) | ![SQLite](https://img.shields.io/badge/SQLite-black?logo=sqlite) | ![Tailwind](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss) | [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-black?logo=deepseek&logoColor=4D6BFF)](#) |
+
 
 ---
 
