@@ -25,13 +25,13 @@ My technical expertise includes HTML, Javascript, CSS (SCSS), PHP (Laravel), and
   We help businesses grow with smart, scalable IT solutions that actually work. From cloud services and network management to cybersecurity, we ensure your IT environment runs smoothly, stays secure, and is ready for tomorrow.
 
 - **XVE.Agency**  
-  At XVE.Agency, we bring brands to life—whether you need a fresh website, eye-catching social media visuals, a coherent brand identity, or professional workwear, we make your brand stand out.
+  At XVE.Agency, we bring brands to life - whether you need a fresh website, eye-catching social media visuals, a coherent brand identity, or professional workwear, we make your brand stand out.
 
 - **XVE.Dev**  
   From system integrations and custom platform development to full digitalization of your business processes, XVE.Dev provides strategic insights and translates your needs into scalable solutions.
 
 - **XVE.Family**  
-  At XVE.Family, we support SMEs with a comprehensive, tailor-made service package. Whether you need just web design, IT support, or a single partner for all your digital requirements—automation, branding, and online marketing—you decide how far we go.
+  At XVE.Family, we support SMEs with a comprehensive, tailor-made service package. Whether you need just web design, IT support, or a single partner for all your digital requirements - automation, branding, and online marketing - you decide how far we go.
 
 ---
 
